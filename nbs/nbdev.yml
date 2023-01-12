@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "database-config"
+  site-url: "https://schlinkertc.github.io/database-config"
+  description: "Provides an easy to use interface for storing database credentials and creating SQL Alchemy connections"
+  repo-branch: main
+  repo-url: "https://github.com/schlinkertc/database-config"
